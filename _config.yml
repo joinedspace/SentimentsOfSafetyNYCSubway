@@ -8,11 +8,11 @@
 baseurl: "/SentimentsOfSafetyNYCSubway" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
 
-title: Sentiments of Safety on the New York City Subway
-author: Erin Wen, Timothy Yoshimura Small
+title: Conflict Urbanism
+author: Laura Kurgan
 externallink: columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  A visual and analytical interrogation at the collision of policy, media, and public sentiment.
+  Description...
 
 
 # Build settings - no need to change these
