@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vertical Parallax Gallery</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+      overflow-x: hidden;
+      background: #111;
+      font-family: sans-serif;
+    }
+
+    .parallax-container {
+      position: relative;
+      height: 100vh;
+      overflow-y: scroll;
+      scroll-behavior: smooth;
+      perspective: 1px;
+      transform-style: preserve-3d;
+    }
+
+    .parallax-layer {
+      position: absolute;
+      width: 100%;
+      height: 100vh;
+      top: 0;
+      left: 0;
+      transform-origin: center center;
+      transition: transform 0.1s ease-out;
+    }
+
+    .parallax-layer img {
+      width: 100%;
+      height: auto;
+      display: block;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="parallax-container" id="gallery">
+    <!-- Example image layers -->
+    <div class="parallax-layer" data-speed="0.5">
+      <img src="images/parallax/1_ Hochul Vows to Lift Economy, Lure Health Workers and Add a Transit Link.jpg_CR.jpg" loading="lazy" alt="Image 1" />
+    </div>
+    <div class="parallax-layer" data-speed="1">
+      <img src="images/parallax/2_ As Omicron Infects Workers, Subway Service Suffers.jpg_CR.jpg" loading="lazy" alt="Image 2" />
+    </div>
+    <div class="parallax-layer" data-speed="1.5">
+      <img src="images/parallax/3_ Police to Step Up Patrol of New York Subway, Adams Says.jpg_CR.jpg" loading="lazy" alt="Image 3" />
+    </div>
+    <!-- Add more images below, just copy the block above -->
+  </div>
+
+  <script>
+    window.addEventListener('scroll', function () {
+      const layers = document.querySelectorAll('.parallax-layer');
+      const scrollTop = window.scrollY;
+
+      layers.forEach(layer => {
+        const speed = parseFloat(layer.dataset.speed);
+        const yPos = scrollTop * speed;
+        layer.style.transform = `translateY(${yPos}px)`;
+      });
+    });
+  </script>
+
+</body>
+</html>
