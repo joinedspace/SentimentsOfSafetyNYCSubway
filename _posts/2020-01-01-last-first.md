@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapie
 <p>
   testing the video placement...
    Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-<iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="float: right; width:221px; height:580px; vertical-align:middle; margin:0 0 10px 10px;" frameborder="0"></iframe>
+<iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="float: right; width:221px; height:580px; vertical-align:middle; margin:0 0 10px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 </p>
 
