@@ -38,6 +38,8 @@ Use Author-Date parenthetical citations following Chicago Manual of Style conven
 
 To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
 
+![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4)
+
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimeline.png)
