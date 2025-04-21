@@ -49,4 +49,4 @@ If you want to include html files (i.e. an interactive map) host these via your 
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
-<div class="iframe-column"><iframe src="ParallaxMedia.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="_includes/ParallaxMedia.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
