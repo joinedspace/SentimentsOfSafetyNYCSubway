@@ -40,11 +40,13 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
+<div class="iframe-column"><iframe autostart="true" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4" style="position:absolute;top:0;left:0;width:664px;height:1620px;" frameborder="0"></iframe></div> 
+
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimeline.png)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
-<div class="iframe-column"><iframe src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+ 
 
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
