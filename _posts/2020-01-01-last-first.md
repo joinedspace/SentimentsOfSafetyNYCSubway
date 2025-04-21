@@ -42,7 +42,7 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 
 <p>
   testing the video placement...
-  <video autoplay muted playsinline style="width:200px; height:auto; vertical-align:middle; margin:0 10px;" onclick="this.pause()" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video>
+  <video autoplay muted playsinline style="float: right; width:200px; height:auto; vertical-align:middle; margin:0 0 10px 10px;" onclick="this.pause()" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video>
 </p>
 
 
