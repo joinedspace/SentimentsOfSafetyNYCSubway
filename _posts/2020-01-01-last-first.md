@@ -13,11 +13,9 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapie
 <p>
   testing the video placement...
    Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-  <video muted playsinline poster="/SentimentsOfSafetyNYCSubway/images/PlayClickFront.png" style="float: right; width:200px; height:auto; vertical-align:middle; margin:0 0 10px 10px;" onclick="this.play()" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video>
-  Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+<iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="float: right; width:200px; height:auto; vertical-align:middle; margin:0 0 10px 10px;" frameborder="0"></iframe>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 </p>
-
-<iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="position:absolute;top:0;left:0;width:200px;height:auto;" frameborder="0"></iframe>
 
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimeline.png)
 
