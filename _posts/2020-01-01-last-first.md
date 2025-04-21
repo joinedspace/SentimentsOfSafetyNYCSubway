@@ -43,7 +43,7 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 <div>
 <video autoplay loop muted playsinline style="position:absolute;top:0;left:0;width:664px;height:1620px;" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video> </div>
 
-<div class="iframe-column"><iframe autostart="true" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4" style="position:absolute;top:0;left:0;width:664px;height:1620px;" frameborder="0"></iframe></div> 
+<div class="iframe-column"><iframe autostart="true" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4" style="position:absolute;top:0;left:0;width:25%;height:auto;" frameborder="0"></iframe></div> 
 
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimeline.png)
 
