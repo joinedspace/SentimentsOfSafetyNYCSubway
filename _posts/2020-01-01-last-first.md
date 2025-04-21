@@ -41,9 +41,8 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
 <div>
-<video autoplay loop muted playsinline style="position:absolute;top:0;left:0;width:664px;height:1620px;" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video> </div>
+<video autoplay muted playsinline style="position:absolute;top:0;left:0;width:200px;height:auto;" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4"></video> </div>
 
-<div class="iframe-column"><iframe autostart="true" src="/SentimentsOfSafetyNYCSubway/images/NYTimesArticlesVideo.mp4" style="position:absolute;top:0;left:0;width:25%;height:auto;" frameborder="0"></iframe></div> 
 
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimeline.png)
 
