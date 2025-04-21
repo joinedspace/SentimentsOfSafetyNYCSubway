@@ -50,7 +50,9 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
-![description of image](/SentimentsOfSafetyNYCSubway/images/QOL_ArrestsGIF.gif)
+<img src="/SentimentsOfSafetyNYCSubway/images/QOL_ArrestsGIF.gif" style="float: right; width:150px; height:auto; vertical-align:middle; margin:0 0 10px 10px;"/>
 
-<img src="/SentimentsOfSafetyNYCSubway/images/QOL_ArrestsGIF.gif" height="150"/>
+some text in between... making sure that it floats the gifs correctly
+
+<img src="/SentimentsOfSafetyNYCSubway/images/FEL_ArrestsGIF.gif" style="float: right; width:150px; height:auto; vertical-align:middle; margin:0 0 10px 10px;"/>
 
