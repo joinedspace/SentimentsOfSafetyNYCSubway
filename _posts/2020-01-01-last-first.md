@@ -8,19 +8,19 @@ author: "Erin Wen, Timothy Yoshimura Small"
 
 There's going to be a video here. <br> <br>
 
-<h2>Framework</h2>
-<p style="text-align: justify;">
+<h4>Framework</h4>
+<p style="text-align: justify; font-family: sans-serif;">
   Believe it or not, the introduction section goes here. That includes some theory, and also a timeline of events, which might come before the theory or after it. <br> <br>
 </p>
 
-<h2>A Trip Through Time</h2>
-<p style="text-align: justify;">
+<h4>A Trip Through Time</h4>
+<p style="text-align: justify; font-family: sans-serif;">
   The interactive window below pulls from various multimedia to paint a temporal trajectory of policing in the Subway system and public perceptions of safety. As you scroll down, the column on the left cycles through every New York Times headline since 2022 covering the Subway. Headlines that are more alarmist are highlighted in orange. For more detailed methodological information and an infographic summary, see the "Media Mania" section further on. The column on the right contains synopses of key events juxtaposed to related footage from citizen videos and institutional journalism. <br> <br>
   <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
 </p>
 
-<h2>Media Mania</h2>
-<p style="text-align: justify;">
+<h4>Media Mania</h4>
+<p style="text-align: justify; font-family: sans-serif;">
 For this study, the New York Times is used as a proxy for institutional media writ large. The authors acknowledge the limitations of this choice. In a wider endeavor, the perspectives of other journalistic outlets would be considered. Here, the Times is chosen because of its ubiquitous and purported neutral stance (whether or not this is valid is debatable). 
 
 
@@ -31,15 +31,15 @@ A time series collapsed bar chart visualizes this media data, and select callout
 Daniel Penny was acquitted of all charges and widely celebrated by factions of the right for his self-claimed neutralizing of a public threat (REFERENCE). The truth is that Jordan Neely was the exact victim of systemic discard that rendered him vulnerable to public hatred (https://www.theguardian.com/us-news/2023/may/12/jordan-neely-new-york-social-services-support-mental-health). While “mentally ill people are more likely to be the victim of a violent crime than to commit one” (https://www.nytimes.com/2023/11/20/nyregion/nyc-mental-illness-breakdowns.html), the rhetoric has fully re-embraced broken-windows theory. For instance, Brooklyn District Attorney Eric Gonzalez has said “quality-of-life issues, when left unaddressed, can erode public confidence and fuel a sense of disorder,” (REFERENCE), and it is exactly that word, disorder, that seems to be the media’s master key into facilitating the paradox of simultaneous increases in police presence and alleged decreases in violent incidents according to the NYPD.
 </p>
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimelineCLEAN.png)
-<p style="text-align: justify;">
+<p style="text-align: justify; font-family: sans-serif;">
 The Dec 22nd, 2024 immolation of Debrina Kawam was in a sense the culmination of manufactured public sentiment that had been festering since the worst of COVID lifted. Some painted her as the face of the unhoused and parroted the sentiment that people using the Subway system for shelter should be forcibly removed. Others used the Guatemalan perpetrator as an excuse for a larger diatribe against Latin American migrant populations. <br> <br>
 
 In both Neely and Kawam’s cases, it is clear that the media capitalized on the magnitude of the event, stoking slippery and unproductive public discourse, and doing nothing to foster a forum of dialogue around modern policing and its dearth of compassionate methods. <br> <br>
 </p>
 
 
-<h2>Police Activity</h2>
-<p style="text-align: justify;">
+<h4>Police Activity</h4>
+<p style="text-align: justify; font-family: sans-serif;">
 Arrests are taken to be a proxy for police activity in this study, because other ancillary citizen information is either out of date or unavailable. This is a systemic limitation. Arrest data spanning 2022 through 2024 are downloaded from the NYPD’s data portal (REFERENCE) as well as the City of New York’s historical arrest records (REFERENCE). These are stitched together in ascending order and filtered to the subset of arrests where the jurisdiction code is 1.0, signifying transit. These transit records are then categorized into quality-of-life (comprising violations and misdemeanors) and felony arrests. 
   <img src="/SentimentsOfSafetyNYCSubway/images/QOL_Arrests.gif" style="float: right; width:250px; height:auto;   vertical-align:middle; margin:0 0 10px 10px;"/>
 Dividing the arrest count by the MTA’s averaged daily ridership volume (REFERENCE) between 2022 and 2024 normalizes patterns across the city. This aggregation is performed at the community district level to strike a balance between data point counts and granularity. After further roll-ups to month-level precision, we generate a time series choropleth of both quality-of-life and felony arrests across our 36-month study window. <br> <br>
