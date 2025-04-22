@@ -56,4 +56,8 @@ According to the data, quality-of-life arrests went up 77% from 2022 (4864) to 2
 Because the MTA’s summary statistics do not offer a definition of “crime”, these incongruences are likely not methodically resolvable. They do add to a concerning trend of data cherry-picking by the NYPD in their high-level reporting (REFERENCE). <br> <br>
 </p>
 
+<p style="text-align: justify;">
+  <iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="float: left; width:442px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
+TESTING
+</p>
 
