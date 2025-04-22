@@ -13,15 +13,9 @@ There's going to be a video here. <br> <br>
   Believe it or not, the introduction section goes here. That includes some theory, and also a timeline of events, which might come before the theory or after it. <br> <br>
 </p>
 
-<h2>Timeline</h2>
+<h2>A Trip Through Time</h2>
 <p style="text-align: justify;">
-  <iframe src="https://joined.space/ConflictUrbNYTPhotos0421251529" style="float: left; width:221px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
-January 1st, 2022: Mayor Eric Adams was sworn into office having run his campaign on public safety. Citing his 22-year career in the New York City Police Department and working-class background to validate his qualifications, his administration sets out to address “a three-headed crisis: We are fighting Covid, crime, and economic devastation all at once” (in Clermont, 2021). <br> <br>
-February 18th, 2022: The Subway Safety Plan is revealed using violence as an entry point to target the “humanitarian crisis” (Hochul) of homelessness in the subway. The Plan seeks to remove the unhoused from the Subway through outreach, while prohibiting and criminalizing undesirable behaviour as outreach and transitional support are overshadowed in numbers by law enforcement. Increased police presence, in addition to the 1,000 officers surged underground in the first month of Adams’ administration, is announced to enforce MTA and New York City Transit Authority’s rules of conduct. <br> <br>
-April 22nd, 2022: A mass shooting occurred on the northbound N train in Sunset Park. 29 people were injured. In a sermonic briefing, Adams vilified gun violence likening the event on the N train to a “war zone.” Pushing for surveillance and weapons detection technology in the Subway despite possible civil rights infringements, he declared: “We cannot clean up a flood when the water is still pouring into the basement, and we can never stop the killing, if we cannot stop the guns. To be clear, we will not surrender our city to a violent few, and we will not surrender all of America to this cult of death.” <br> <br>
-October 22nd, 2022: Cops, Cameras, and Care rolls out building on the momentum of the Subway Safety Plan. The initiative multiplies the omnipresence of the carceral state through increased MTA and NYPD police presence; conductor announcements of police presence in stations and on platform; initiating surveillance camera installation in each car, to be completed by end of 2024; and builds on a partnership with the New York State Office of Mental Health to enhance transitional support (through deployment of Safe Options Support Teams, short-term housing, and psychiatric care) and offers intervention training for law enforcement and first responders. <br> <br>
-May 1st, 2023: The murder of Jordan Neely on the northbound F train sparked protest across the city as Daniel Penny was acquitted of manslaughter and criminally negligent homicide charges. Adams used the tragedy to bolster the urgency and necessity of his reforms. “There are more Jordans out there, people who are loved, people in need of compassion, treatment, and protection — people like Jordan. Jordan Neely's life mattered. He was suffering from severe mental illness, but that was not the cause of his death. His death is a tragedy that never should have happened,” Adams commiserates without making reference to the perpetrator nor structural failures. NYT continued to follow the story and trial for months. <br> <br>
-March 6th, 2024: Governor Hochul announces 5-Point Plan surging 1,000 State personnel to assist NYPD in bag checks. The deployment includes 750 National Guardsmen to create a “psychological” effect to deter crime, harkening back to the aftermath of 9/11 when the military was last seen in the Subway. The Plan increases funding for NYPD mental health response and proposes expanded judicial discretion to ban ridership for those with prior convictions. <br> <br>
+  <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
 </p>
 
 <h2>The Media</h2>
@@ -56,8 +50,5 @@ According to the data, quality-of-life arrests went up 77% from 2022 (4864) to 2
 Because the MTA’s summary statistics do not offer a definition of “crime”, these incongruences are likely not methodically resolvable. They do add to a concerning trend of data cherry-picking by the NYPD in their high-level reporting (REFERENCE). <br> <br>
 </p>
 
-<p style="text-align: justify;">
-  <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
-TESTING
-</p>
+
 
