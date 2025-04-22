@@ -21,7 +21,7 @@ A time series collapsed bar chart visualizes this media data, and select callout
 Daniel Penny was acquitted of all charges and widely celebrated by factions of the right for his self-claimed neutralizing of a public threat (REFERENCE). The truth is that Jordan Neely was the exact victim of systemic discard that rendered him vulnerable to public hatred (https://www.theguardian.com/us-news/2023/may/12/jordan-neely-new-york-social-services-support-mental-health). While “mentally ill people are more likely to be the victim of a violent crime than to commit one” (https://www.nytimes.com/2023/11/20/nyregion/nyc-mental-illness-breakdowns.html), the rhetoric has fully re-embraced broken-windows theory. For instance, Brooklyn District Attorney Eric Gonzalez has said “quality-of-life issues, when left unaddressed, can erode public confidence and fuel a sense of disorder,” (REFERENCE), and it is exactly that word, disorder, that seems to be the media’s master key into facilitating the paradox of simultaneous increases in police presence and alleged decreases in violent incidents according to the NYPD.
 </p>
 ![description of image](/SentimentsOfSafetyNYCSubway/images/NYTimesTimelineCLEAN.png)
-<p>
+<p style="text-align: justify;">
 The Dec 22nd, 2024 killing of Debrina Kawam by fire was in a sense the culmination of manufactured public sentiment that had been festering since the worst of COVID lifted. Some painted her as the face of the unhoused and parroted the sentiment that people using the Subway system for shelter should be forcibly removed. Others used the Guatemalan perpetrator as an excuse for a larger diatribe against Latin American migrant populations. <br> <br>
 
 In both Neely and Kawam’s cases, it is clear that the media capitalized on the magnitude of the event, stoking slippery and unproductive public discourse, and doing nothing to foster a forum of dialogue around modern policing and its dearth of compassionate methods. <br> <br>
@@ -29,7 +29,7 @@ In both Neely and Kawam’s cases, it is clear that the media capitalized on the
 
 
 <h2>Police Activity</h2>
-<p>
+<p style="text-align: justify;">
 Arrests are taken to be a proxy for police activity in this study, because other ancillary citizen information is either out of date or unavailable. This is a systemic limitation. Arrest data spanning 2022 through 2024 are downloaded from the NYPD’s data portal (REFERENCE) as well as the City of New York’s historical arrest records (REFERENCE). These are stitched together in ascending order and filtered to the subset of arrests where the jurisdiction code is 1.0, signifying transit. These transit records are then categorized into quality-of-life (comprising violations and misdemeanors) and felony arrests. 
   <img src="/SentimentsOfSafetyNYCSubway/images/QOL_ArrestsGIF.gif" style="float: right; width:250px; height:auto;   vertical-align:middle; margin:0 0 10px 10px;"/>
 Dividing the arrest count by the MTA’s averaged daily ridership volume (REFERENCE) between 2022 and 2024 normalizes patterns across the city. This aggregation is performed at the community district level to strike a balance between data point counts and granularity. After further roll-ups to month-level precision, we generate a time series choropleth of both quality-of-life and felony arrests across our 36-month study window. <br> <br>
