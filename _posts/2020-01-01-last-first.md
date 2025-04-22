@@ -15,6 +15,7 @@ There's going to be a video here. <br> <br>
 
 <h2>A Trip Through Time</h2>
 <p style="text-align: justify;">
+  The interactive window below pulls from various multimedia to paint a temporal trajectory of policing in the Subway system and public perceptions of safety. As you scroll through, the column on the left cycles through every New York Times headline since 2022 covering the Subway. Headlines that are more alarmist are highlighted in orange. For more information and an infographic summary, see the "Media" section further on. The column on the right contains synopses of key events juxtaposed to related footage from citizen videos and institutional journalism. <br>
   <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe>
 </p>
 
