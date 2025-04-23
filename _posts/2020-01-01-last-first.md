@@ -8,17 +8,17 @@ author: "Erin Wen, Timothy Yoshimura Small"
 
 There's going to be a video here. You can't see it here, but it'll be here. It will. <br> <br>
 
-<h4>Framework</h4>
+<h4>The Study</h4>
 <p style="text-align: justify; font-family: sans-serif;">
 Our project explores the reality vs. perception of public safety in New York City’s Subway system. This research emerges from the heightened reporting around high-profile random acts of violence at the tail end of 2024. Despite a 5.4% decrease in overall transit crime in 2024 from 2023, marking the second consecutive year of decline (NYPD, 2025), and the low statistical probability (about 1 in 500 (Chalfin et al., 2024)) of falling victim to a crime in the Subway, fear mongering has bolstered the feeling of unsafety underground justifying the militarization of the MTA through increased surveillance, police presence, and arrests. According to MTA’s Fall 2024 Customers Count survey, 56% of customers indicated they felt safe on trains, an increase from 45% in the spring. Regardless of the data, the new year and tailwind of news headlines from 2024 presented an opportunity for the mayoral office and NYPD to crack down on crime, directing over 200 officers underground, in addition to the 2,600 cops already stationed in the Subway (Lane, 2025) and 1,000 National Guard officers (Heyward, 2024), “to do speciality train patrols” as “part of a strategy to refocus our Subway efforts to the places where crime is occurring” (Tisch, 2025). <br> <br>
 If: “The Subways will be a bellwether for the perception of public safety in New York City” (Tisch, 2025), the statistical data in crime reporting alone cannot explain the atmosphere of un/safety, nor do they validate the responses in policy programming and the weaponization of carceral tactics. Given Police Commissioner Tisch’s insistence on a data-driven approach to policing, we are interested in transit crime and ridership data over a 3-year period and how these are interpreted and communicated through policy-making and news outlets to inform and govern public space and sentiment. Our research thus asks, what are the real causes of the perception of fear and how do they accommodate for the militarization of NYC’s Subway system? Analyzing news reports, crime data, and public policy from 2022 to the present allows us to gain a better understanding of un/safety, notions of public space, and the pathologization of criminality in the Subway system.  <br> <br>
 </p>
 
-<h4>Topic Significance</h4>
+<h4>Public Safety... For Whom?</h4>
 <p style="text-align: justify; font-family: sans-serif;">
 Public transit has been understudied in urban planning and design, invisibilized underground as public infrastructure left to the attention of engineers and economists (Tuvikene et al., 2023). However, as North America’s largest transportation network with over 3 million riders daily (MTA, n.d.), embracing the MTA Subway system as infrastructure and public space opens up opportunities to explore the social significance of spaces – “what is, can be, or should be public in the city” (Tuvikene et al., 2023:2964). While public space “is as much present as always in becoming in (contested) processes” (Iveson, 2007 in Tuvikene et al., 2023), the carceral control of underground terrain raises questions over who has the right to the city (Harvey, 2019)? More specifically, who has the right to “claim some kind of shaping power over processes of urbanization” (ibid.,:5), the extent of a space’s publicness, why it matters, and for whom? <br> <br>
 Our investigation locates itself in a timely manner given the recent uptick in inflammatory news headlines regarding transit safety and crime and the responses in policy, surveillance strategies, and policing. In the aftermath of the pandemic, perceptions of un/safety have been met with responses from the mayoral office in the form of the Subway Safety Plan (2022), alongside the Quality-of-Life Enforcement Initiative, which has formed into its own NYPD Quality of Life Division on the heels of the injection of police underground this year. The incongruence between crime data and militarization call into question policy responses (what/who is being securitized or criminalized and why) and the role of mass media in manufacturing consent (Herman and Chomsky, 1988) and representing the public. <br> <br>
-Our study draws upon a longer history regarding the role of the police in relation to the public considering recent momentum to securitize the public space of the transit system through carceral techniques. In the 1990s, patrolling public (dis)order occupied the central agenda of the NYPD where untended property became the site of securitization under the broken windows theory (Manguel, 2025). Conceived of by Kelling and Wilson (1982), broken windows theory punishes low-level “crime” suggesting that “untended behaviour” would lead to rising, especially violent, crime. Policing dis/order thus became the logical response to quell perceptions of rising threat while justifying the diversion of public resources into the department as the means and ends to maintain public order, effectively criminalizing poor, working-class, racialized communities. This is of particular concern today with the crackdown on low-level quality-of-life “crimes” (aggressive panhandling, smoking or drinking alcohol in the Subway, lying on Subway seats, fare evasion) (Lane, 2025). Broken windows theory works hand-in-hand with deterrence theory where increased police presence is posited to increase perceptions of risk and apprehension, thus deterring disorder, danger, and crime (Roberts et al., 2024). The effects of deterrence theory have been critiqued (ibid.), conflating increased arrest rates, through the increased exposure and interaction of and with police, as improvements in perceptions of safety. As congestion pricing is expected to further increase ridership, the slippage between public order and public safety raises concerns over class and race inequities in controlling, accessing, and creating public space.
+Our study draws upon a longer history regarding the role of the police in relation to the public considering recent momentum to securitize the public space of the transit system through carceral techniques. In the 1990s, patrolling public (dis)order occupied the central agenda of the NYPD where untended property became the site of securitization under the broken windows theory (Manguel, 2025). Conceived of by Kelling and Wilson (1982), broken windows theory punishes low-level “crime” suggesting that “untended behaviour” would lead to rising, especially violent, crime. Policing dis/order thus became the logical response to quell perceptions of rising threat while justifying the diversion of public resources into the department as the means and ends to maintain public order, effectively criminalizing poor, working-class, racialized communities. This is of particular concern today with the crackdown on low-level quality-of-life “crimes” (aggressive panhandling, smoking or drinking alcohol in the Subway, lying on Subway seats, fare evasion) (Lane, 2025). Broken windows theory works hand-in-hand with deterrence theory where increased police presence is posited to increase perceptions of risk and apprehension, thus deterring disorder, danger, and crime (Roberts et al., 2024). The effects of deterrence theory have been critiqued (ibid.), conflating increased arrest rates, through the increased exposure and interaction of and with police, as improvements in perceptions of safety. As congestion pricing is expected to further increase ridership, the slippage between public order and public safety raises concerns over class and race inequities in controlling, accessing, and creating public space. <br> <br>
 </p>
 
 <h4>A Trip Through Time</h4>
@@ -60,4 +60,55 @@ Because the MTA’s summary statistics do not offer a definition of “crime”,
 </p>
 
 
+<h4>Citations</h4>
+<p style="text-align: justify; font-family: sans-serif;">
+Chalfin, A., Chohlas-Wood, A., and Williams Jr. M. (2024, June 6). Crime on the New York City Subway: 
+How rare is it really? Vital City.
+https://www.vitalcitynyc.org/articles/how-rare-is-crime-on-the-Subway <br>
+City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
+https://catalog.data.gov/dataset/nypd-arrests-data-historic <br>
+Harvey, D. (2019). Rebel Cities: From the Right to the City to the Urban Revolution. Verso. <br>
+Herman, E., and Chomsky, N. (1988). Manufacturing Consent: The Political Economy of the Mass 
+Media. Pantheon Books. <br>
+Heyward, G. (2024, December 18). Gov. Hochul says NYC Subways are safer – then sends in 250 
+National Guard troops.  
+https://gothamist.com/news/hochul-says-nyc-Subways-are-safer-then-sends-in-250-more-national-guard-troops <br>
+Kelling, G.L. and Wilson, J.Q. (1982, March). Broken Windows. The Atlantic. 
+https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/ <br>
+Lane, C. (2025, February 7). Seeing more NYPD officers in the Subway? We explain what’s happening. 
+Gothamist. 
+https://gothamist.com/news/seeing-more-nypd-officers-in-the-Subway-we-explain-whats-happening <br>
+Lane, C. (2025, January 30). No panhandling, peeing or lying on Subway seats: NYPD launches new 
+quality-of-life division. Gothamist. 
+https://gothamist.com/news/no-panhandling-peeing-or-laying-on-Subway-seats-nypd-launches-new-quality-of-life-division <br>
+Mangual, R.A. (2025, February 7). The NYPD’s Long Overdue New Division. The City Journal. 
+https://www.city-journal.org/article/nypd-quality-of-life-division-new-york-city-safety <br>
+MTA. (n.d.). The MTA Network. MTA. 
+https://www.mta.info/about-us/the-mta-network#:~:text=The%20MTA%20network%20has%20t
+he,of%20its%20commuter%20rail%20passengers. <br>
+MTA. (2025, January 27). MTA Customers Count Fall 2024 Survey Results MTA. 
+https://www.mta.info/article/mta-customers-count-fall-2024-survey-results <br>
+MTA. (2025, March 5). MTA Subway Hourly Ridership: 2020-2024. Retrieved from
+https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s  <br>
+NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from 
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br>
+NYPD. (2025, January 6). Crime down across New York City in 2024, with 3,662 fewer crimes. NYPD. 
+https://www.nyc.gov/site/nypd/news/pr001/crime-down-across-new-york-city-2024-3-662-fewer-
+crimes <br>
+Office of the Mayor. (2025, January 6). Transcript: Mayor Adams and NYPD Commissioner Tisch 
+Announce Crime Down in 2024 [Press conference].
+https://www.nyc.gov/office-of-the-mayor/news/006-25/transcript-mayor-adams-nypd-commission
+er-tisch-crime-down-2024 <br>
+Pfaff, J. (2017). Locked in : The true causes of mass incarceration--and how to achieve real reform. Basic 
+Books. <br>
+Roberts, L.E., Mehranbod, C.A., Bushover, B., Bobaud, A.N., Eschliman, E.L., Fish, C., Zadey, S., Gao, 
+X. and Morrison, C.N. (2024). Trends in police complaints and arrests on New York City Subways, 2018 to 2023: an interrupted time-series analysis. Injury Epidemiology 11(16). <br>
+Sharpe, C. E. (2016). In the wake : On blackness and being. Duke University Press. <br>
+Tuvikene, T., Sgibnev, W., Kębłowski, W., and Finch, J. (2023). Public transport as public space: 
+Introduction. Urban Studies 60(15): 2963-2978.  <br>
 
+* The New York Times archive is scraped using API access and Python tools, but no particular article is singled out as a source because the aggregate is what we analyzed. For now, the Times is credited generally as a publisher.
+
+* NOTE: NEED TO ADD CITATIONS FOR VIDEO/GIF SOURCES! 
+
+</p>
