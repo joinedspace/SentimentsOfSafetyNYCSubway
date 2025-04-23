@@ -10,7 +10,7 @@ There's going to be a video here. You can't see it here, but it'll be here. It w
 
 <h4>The Study</h4>
 <p style="text-align: justify; font-family: sans-serif;">
-Our project explores the reality vs. perception of public safety in New York City’s Subway system. This research emerges from the heightened reporting around high-profile random acts of violence at the tail end of 2024. Despite a 5.4% decrease in overall transit crime in 2024 from 2023, marking the second consecutive year of decline (NYPD, 2025), and the low statistical probability (about 1 in 500 (Chalfin et al., 2024)) of falling victim to a crime in the Subway, fear mongering has bolstered the feeling of unsafety underground justifying the militarization of the MTA through increased surveillance, police presence, and arrests. According to MTA’s Fall 2024 Customers Count survey, 56% of customers indicated they felt safe on trains, an increase from 45% in the spring. Regardless of the data, the new year and tailwind of news headlines from 2024 presented an opportunity for the mayoral office and NYPD to crack down on crime, directing over 200 officers underground, in addition to the 2,600 cops already stationed in the Subway (Lane, 2025) and 1,000 National Guard officers (Heyward, 2024), “to do speciality train patrols” as “part of a strategy to refocus our Subway efforts to the places where crime is occurring” (Tisch, 2025). <br> <br>
+Our project explores the reality vs. perception of public safety in New York City’s Subway system. This research emerges from the heightened reporting around high-profile random acts of violence at the tail end of 2024. Despite reported historic reductions in transit crime from 2023 to 2024, marking the second consecutive year of decline (NYPD, 2025), and the low statistical probability (about 1 in 500 (Chalfin et al., 2024)) of falling victim to a crime in the Subway, fear mongering has bolstered the feeling of unsafety underground justifying the militarization of the MTA through increased surveillance, police presence, and arrests. According to MTA’s Fall 2024 Customers Count survey, 56% of customers indicated they felt safe on trains, an increase from 45% in the spring. Regardless of the data, the new year and tailwind of news headlines from 2024 presented an opportunity for the mayoral office and NYPD to crack down on crime, directing over 200 officers underground, in addition to the 2,600 cops already stationed in the Subway (Lane, 2025) and 1,000 National Guard officers (Heyward, 2024), “to do speciality train patrols” as “part of a strategy to refocus our Subway efforts to the places where crime is occurring” (Tisch, 2025). <br> <br>
 If: “The Subways will be a bellwether for the perception of public safety in New York City” (Tisch, 2025), the statistical data in crime reporting alone cannot explain the atmosphere of un/safety, nor do they validate the responses in policy programming and the weaponization of carceral tactics. Given Police Commissioner Tisch’s insistence on a data-driven approach to policing, we are interested in transit crime and ridership data over a 3-year period and how these are interpreted and communicated through policy-making and news outlets to inform and govern public space and sentiment. Our research thus asks, what are the real causes of the perception of fear and how do they accommodate for the militarization of NYC’s Subway system? Analyzing news reports, crime data, and public policy from 2022 to the present allows us to gain a better understanding of un/safety, notions of public space, and the pathologization of criminality in the Subway system.  <br> <br>
 </p>
 
@@ -24,8 +24,10 @@ Our study draws upon a longer history regarding the role of the police in relati
 <h4>A Trip Through Time</h4>
 <p style="text-align: justify; font-family: sans-serif;">
   The interactive window below pulls from various multimedia to paint a temporal trajectory of policing in the Subway system and public perceptions of safety. As you scroll down, the column on the left cycles through every New York Times headline since 2022 covering the Subway. Headlines that are more alarmist are highlighted in orange. For more detailed methodological information and an infographic summary, see the "Media Mania" section further on. The column on the right contains synopses of key events juxtaposed to related footage from citizen videos and institutional journalism. <br>
-  <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe> <br> <br>
+  <iframe src="https://joined.space/ConflictUrbNYTPhotos0422251141" style="float: left; width:663px; height:550px; vertical-align:middle; margin:5px 25px 5px 10px; scrollbar-color:transparent;" frameborder="0"></iframe> 
 </p>
+
+<p></p>
 
 <h4>Media Mania</h4>
 <p style="text-align: justify; font-family: sans-serif;">
@@ -60,7 +62,7 @@ Because the MTA’s summary statistics do not offer a definition of “crime”,
 
 
 <h4>Citations</h4>
-<p style="text-align: justify; font-family: sans-serif;">
+<p style="text-align: justify; font-family: sans-serif; font-size: 12">
 Chalfin, A., Chohlas-Wood, A., and Williams Jr. M. (2024, June 6). Crime on the New York City Subway: 
 How rare is it really? Vital City.
 https://www.vitalcitynyc.org/articles/how-rare-is-crime-on-the-Subway <br>
@@ -104,7 +106,7 @@ Roberts, L.E., Mehranbod, C.A., Bushover, B., Bobaud, A.N., Eschliman, E.L., Fis
 X. and Morrison, C.N. (2024). Trends in police complaints and arrests on New York City Subways, 2018 to 2023: an interrupted time-series analysis. Injury Epidemiology 11(16). <br>
 Sharpe, C. E. (2016). In the wake : On blackness and being. Duke University Press. <br>
 Tuvikene, T., Sgibnev, W., Kębłowski, W., and Finch, J. (2023). Public transport as public space: 
-Introduction. Urban Studies 60(15): 2963-2978.  <br>
+Introduction. Urban Studies 60(15): 2963-2978.  <br> <br>
 
 * The New York Times archive is scraped using API access and Python tools, but no particular article is singled out as a source because the aggregate is what we analyzed. For now, the Times is credited generally as a publisher.
 
