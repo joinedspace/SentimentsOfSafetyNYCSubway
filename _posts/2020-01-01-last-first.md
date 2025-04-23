@@ -6,7 +6,7 @@ title:  "Sentiments of Safety on the New York City Subway"
 author: "Erin Wen, Timothy Yoshimura Small"
 ---
 
-There's going to be a video here. <br> <br>
+There's going to be a video here. You can't see it here, but it'll be here. It will. <br> <br>
 
 <h4>Framework</h4>
 <p style="text-align: justify; font-family: sans-serif;">
